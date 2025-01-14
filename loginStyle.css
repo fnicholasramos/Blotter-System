@@ -1,0 +1,116 @@
+    body {
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        line-height: 1.6;
+        background: #f0f0f1;
+        color: #3c434a;
+        margin: 0;
+        padding: 0;
+        
+    }
+
+    .logo {
+        display: flex;
+        justify-content: center;
+        margin-bottom: -15px;
+        
+    }
+
+    .logo img {
+        height: auto; 
+        width: 110px;
+    }
+
+    #center {
+        text-align: center;
+        margin: 0 auto;
+    }
+
+    fieldset {
+        background-color: #ffffff;
+        padding: 20px;
+        border-radius: 1px;
+        width: 350px;
+        height: 280px;
+        border: 1px solid #c3c4c7;
+        margin: 20px auto; 
+        text-align: center;
+        position: relative;
+        
+    }
+
+    label {
+        display: block;
+        margin-bottom: 5px;
+        float: left;
+        text-align: right;
+        margin-right: 0.5em;
+        display: block;
+        overflow: hidden;
+        padding-right: 50px; 
+    }
+
+    input {
+        width: 100%;
+        padding: 8px;
+        margin-bottom: 15px;
+        border: 1px;
+        border-style: solid;
+        box-sizing: border-box;
+        background-color: #ffffff;
+        border-color: #bfc2ca;
+        border-radius: 4px;
+        font-size: 23px;
+        float: left;
+    }
+
+    .submit {
+        font-family: Arial, sans-serif;
+        font-size: 15px;
+        color: #ffffff;
+        width: 70px;
+        height: 40px;
+        background-color: #135e96;
+        border: 1px;
+        border-style: solid;
+        border-radius: 4px;
+        cursor: pointer;
+        margin-top: 10px;
+        margin-left: 140px;
+        float: right;
+    }
+
+    .submit:hover {
+        background-color: #2980b9;
+    }
+
+
+    a {
+        text-decoration: none;
+        color: #230cf3;
+        font-size: small;
+        margin-bottom: 10px;
+        float:left
+    }
+
+    a:hover {
+        text-decoration:underline;
+    }
+
+    #errorMsg {
+        color: red;
+        font-size: smaller;
+        margin-right:5px;
+        margin-top: -50px;
+        white-space: nowrap;
+        display: inline-block;
+        position: relative;
+    }
+
+  
+    
+
+    
+
+
+
+    

@@ -1,0 +1,122 @@
+#title {
+  text-align: center;
+  background-color: #4d4d4d;
+  color: #fff;
+  padding: 3px;
+  letter-spacing: 2px;
+  font-weight: 500;
+  padding: 7px;
+}
+
+.table-width {
+  width: 100%;
+}
+
+.searchUser {
+  float: left;
+}
+
+.box {
+  margin-bottom: 10px;
+}
+
+.box label {
+  float: right;
+  font-size: 18px;
+  margin-right: 5px;
+}
+
+.box input {
+  float: right;
+}
+
+.box button {
+  float: left;
+}
+
+.box button.add {
+  margin-left: -6%;
+}
+
+.box h6 {
+  text-align: center;
+  margin-right: 20px;
+}
+
+.box input.s3arch {
+  margin-right: -70px;
+  width: 20%;
+}
+
+.print {
+  /* background-color: #157347;
+  color: #fff;
+  padding: 1px;
+  height: 30px;
+  width: 75px; */
+  border-color: #157347;
+  margin-left: 10px;
+}
+
+.print:hover {
+  background-color: #0d7b63;
+}
+
+.submit {
+  background-color: black;
+  color: #fff;
+}
+
+.add {
+  background-color: black;
+  color: #fff;
+  cursor: pointer;
+  height: 38px;
+  width: 80px;
+  border-radius: 8px;
+  float: left;
+}
+
+.add:hover {
+  background-color: #333;
+}
+
+.export {
+  background-color: #135e96;
+  color: #ffffff;
+  cursor: pointer;
+  height: 38px;
+  margin-left: 10px;
+  border-radius: 8px;
+  border-color: #135e96;
+}
+
+.export:hover {
+  background-color: #1571b5;
+}
+
+.dropdown {
+  float: left;
+}
+
+.dropdown-toggle {
+  width: 50px;
+}
+
+.fa-edit {
+    font-size:15px;
+}
+
+.fa-trash {
+    font-size:15px;
+}
+
+.cancelUpdate {
+  margin-left: 65%;
+}
+
+.typeSelect {
+  height: 43px ;
+}
+
+
